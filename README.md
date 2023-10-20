@@ -1,3 +1,4 @@
+
 # Visie Teste
 
 Este é um projeto composto por duas partes principais: `visie-api` e `visie-app`.
@@ -7,6 +8,8 @@ Este é um projeto composto por duas partes principais: `visie-api` e `visie-app
 A `visie-api` é a API deste projeto, desenvolvida em PHP com o framework Symfony. Ela fornece os recursos necessários para o funcionamento da aplicação móvel.
 
 Para mais detalhes sobre a API, por favor, acesse o [https://github.com/AndMorMat/visie-teste/tree/master/visie-api](https://github.com/AndMorMat/visie-teste/tree/master/visie-api).
+
+**Funcionamento da api**: https://drive.google.com/file/d/1hKiIkfq0FP5PkDmym_0FeRBUTlREIF-y/view?usp=sharing
 
 ## visie-app
 
