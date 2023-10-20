@@ -1,0 +1,10 @@
+sensio_framework_extra:
+    router:
+        annotations: false
+    request:
+        converters: true
+        auto_convert: false
+
+fos_rest:
+    body_converter:
+        enabled: true
